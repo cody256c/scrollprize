@@ -1,7 +1,12 @@
 # scrollprize
 Vesuvius Challenge
 
+## v03
+
+This is a modified version of Youssef's code.
+
 ```
+# navigate to src/v03
 # train
 python3 main.py train --labels=../../input/set01 --out=../../output/v03 --data=../../dl.ash2txt.org/full-scrolls/Scroll1.volpkg/paths
 #infer
