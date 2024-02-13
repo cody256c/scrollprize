@@ -1,0 +1,15 @@
+# get CT scans of scroll one
++ /full-scrolls/Scroll1.volpkg/config.json
++ /full-scrolls/Scroll1.volpkg/volumes/**
+
+# get paths of scroll one
++ /full-scrolls/Scroll1.volpkg/paths/*/layers/**
++ /full-scrolls/Scroll1.volpkg/paths/*/*_mask.png
++ /full-scrolls/Scroll1.volpkg/paths/*/*.tif
++ /full-scrolls/Scroll1.volpkg/paths/*/*.txt
++ /full-scrolls/Scroll1.volpkg/paths/*/*.ppm
++ /full-scrolls/Scroll1.volpkg/paths/*/meta.json
++ /full-scrolls/Scroll1.volpkg/paths/*/pointset.vcps
+
+# exclude
+- *
